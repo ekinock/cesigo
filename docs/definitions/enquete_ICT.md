@@ -1,4 +1,8 @@
-# Enquête ICT 
+---
+layout: default
+title: Enquête ICT
+---
+
 *Information and Communication Technology*
 
 Enquête statistique standardisée européenne sur l'**usage des technologies numériques** par les entreprises et les ménages.

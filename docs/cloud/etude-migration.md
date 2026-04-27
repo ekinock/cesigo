@@ -1,3 +1,7 @@
+---
+layout: default
+title: Etude migration vers le cloud 
+---
 
 ## Étude
 ### Références

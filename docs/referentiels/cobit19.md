@@ -1,4 +1,8 @@
-# COBIT 2019
+---
+layout: default
+title: COBIT 2019
+tags: [finops]
+---
 
 Guide contenant des objetcifs pour la gouvernance & le management des SI \
 *développé oar l'ISACA* \

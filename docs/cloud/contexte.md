@@ -1,4 +1,11 @@
-e cloud représente 45% des dépenses IT mondiales en 2026, mais soulève un paradoxe : promesse d'optimisation infinie vs complexité de pilotage explosant.
+---
+layout: default
+title: contexte cloud
+tags: [finops]
+---
+
+
+le cloud représente 45% des dépenses IT mondiales en 2026, mais soulève un paradoxe : promesse d'optimisation infinie vs complexité de pilotage explosant.
 Contexte marché (2026)
 
 Explosion des budgets : +28% prévus sur les dépenses cloud (Flexera 2025).

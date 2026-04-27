@@ -1,3 +1,9 @@
+---
+layout: default
+title: Finops
+tags: [finops]
+---
+
 # FinOps 
 *Financial Operations* 
 

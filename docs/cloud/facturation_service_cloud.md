@@ -1,3 +1,8 @@
+---
+layout: default
+title: Modalités de facturation des services cloud
+---
+
 Les 4 modalités principales (2026)
 Modèle	Principe	Répartition	Exemple usage
 Pay-as-you-go	Facturé à la seconde/heure sur CPU/RAM/stockage/transfert	85-90% des déploiements	Dev/test, workloads variables
