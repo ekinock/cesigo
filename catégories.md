@@ -1,0 +1,5 @@
+# Catégories
+
+- études
+- définitions
+- thèmes

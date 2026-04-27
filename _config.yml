@@ -3,5 +3,5 @@ theme: minima
 
 header_pages:
   - index.md
-  - définitions.md
+  - ./définitions/index-définitions.md
   - catégories.md
