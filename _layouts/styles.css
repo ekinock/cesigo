@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  display: flex;
+  font-family: Arial;
+  background: #121212;
+  color: #e0e0e0;
+}
+
+/* SIDEBAR */
+aside {
+  width: 220px;
+  background: #1e1e1e;
+  padding: 15px;
+  height: 100vh;
+}
+
+/* LIENS SIDEBAR */
+aside a {
+  display: block;
+  margin: 6px 0;
+  color: #90caf9;
+  text-decoration: none;
+}
+
+aside a:hover {
+  text-decoration: underline;
+}
+
+/* CONTENU */
+main {
+  flex: 1;
+  padding: 20px;
+}
